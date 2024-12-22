@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "email": "sushil.san+part1.0@batchservice.com",
+    "password": "Test@123"
+  },
+  "invalidUser": {
+    "email": "invaliduser@example.com",
+    "password": "InvalidPassword123"
+  },
+  "baseUrl": {
+    "loginUrl": "https://partner1.batchleads.io/public/login",
+    "signupUrl": "https://partner1.batchleads.io/public/register"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SeleniumSuite" parallel="tests" thread-count="2">
+    <!-- You can set parallel to "tests", "classes", "methods" depending on how you want the tests to run -->
+    <!-- Test for the first set of test cases -->
+    <test name="Test Suite 1"   >
+        <classes>
+            <class name="LoginTest"/>
+            <!-- Add more classes here if you want -->
+        </classes>
+    </test>
+
+</suite>

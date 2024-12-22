@@ -1,0 +1,1 @@
+{"uuid":"2ec8d53e-7f83-4872-a6ee-b9f5a97790fe","name":"YourTestNGClassTest.teardown","children":["5f18f1ee-49df-4b75-8d7c-d5f4ce458794"],"description":"","befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734373567113,"stop":1734373567352}],"start":1734373567112,"stop":1734373567352}

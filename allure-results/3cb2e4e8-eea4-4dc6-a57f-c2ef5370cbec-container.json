@@ -1,0 +1,1 @@
+{"uuid":"3cb2e4e8-eea4-4dc6-a57f-c2ef5370cbec","name":"YourTestNGClassTest.setup","children":["6b1904c8-aca5-4d2a-94a1-1c98e29c3f20"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734373583983,"stop":1734373585729}],"afters":[],"start":1734373583983,"stop":1734373585729}
